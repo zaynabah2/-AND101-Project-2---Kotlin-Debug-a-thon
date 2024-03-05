@@ -37,7 +37,8 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='http://i.imgur.com/link/to/your/gif/fi![Kapture 2024-03-04 at 21 20 50](https://github.com/zaynabah2/-AND101-Project-2---Kotlin-Debug-a-thon/assets/153014017/b75bc13b-9623-40e6-a122-461e5da8caf8)
+le.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
